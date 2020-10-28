@@ -1,0 +1,11 @@
+github.com/gotcp/epollclient v1.0.0 h1:IY7q1FgR7xPJwN+KF+g9gqje54/PEMxWt1mSpYhb1ww=
+github.com/gotcp/epollclient v1.0.0/go.mod h1:ldwcMUwG06yYdL0ADK1fe+1Afra+Tfeqm9hrhuxnUzY=
+github.com/wuyongjia/bytesbuffer v1.0.0 h1:hJfwAqkARg6FJLsYfaNJPw8ivzeysczJmlTf2haW7d0=
+github.com/wuyongjia/bytesbuffer v1.0.0/go.mod h1:cyHNycf041YfPQaUUAXDEhEDZWmLjL3/oSO0HuuEjeM=
+github.com/wuyongjia/hashmap v1.0.5 h1:EO34A9sifG+JkdvGQKT/+L5abGXqBDRubTlgs2xQcag=
+github.com/wuyongjia/hashmap v1.0.5/go.mod h1:na48ZyFhZiMmfDfoN0wkZolJojFSfyySeTq6et/GVqk=
+github.com/wuyongjia/pool v1.0.7 h1:rZpCULfV54GDEBHxvD2zh4L1qkJ5sTlyY6Z1q/iFbxo=
+github.com/wuyongjia/pool v1.0.7/go.mod h1:DcdIaTv7byb19BkXhI3etGpMVAnFllOPStl/1k2FXyQ=
+golang.org/x/sys v0.0.0-20201027140754-0fcbb8f4928c/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
+golang.org/x/sys v0.0.0-20201028094953-708e7fb298ac h1:bplbaOojU0hnrC9nvWJ5Nvp/gPIWKFMiGBFI9Cpp16I=
+golang.org/x/sys v0.0.0-20201028094953-708e7fb298ac/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
